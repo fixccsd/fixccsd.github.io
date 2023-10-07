@@ -1,13 +1,13 @@
 /* fallback */
 @font-face {
-  font-family: 'Material Icons Sharp';
+  font-family: 'Adobe Caslon Pro Bold';
   font-style: normal;
   font-weight: 400;
-  src: url(material.woff2) format('woff2');
+  src: url(Adobe Caslon Pro Bold.ttf) format('ttf');
 }
 
 .material-icons-sharp {
-  font-family: 'Material Icons Sharp';
+  font-family: 'Adobe Caslon Pro Bold';
   font-weight: normal;
   font-style: normal;
   font-size: 24px;
